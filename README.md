@@ -6,7 +6,7 @@
 
 Me chamo **Eberth da Silva Rodrigues**, estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e por aprender algo novo todos os dias.  
 
-Atualmente estou focado em **Java**, **SQL**, **Python**, **CSS** e **HTML**, buscando aprimorar meus conhecimentos para futuramente atuar como desenvolvedor Fullstack e explorar áreas como back-end e análise de dados.
+Conhecimentos em **Java**, **SQL**, **Python**, **CSS** e **HTML**, buscando aprimorar meus conhecimentos para futuramente atuar como desenvolvedor Fullstack e explorar áreas como back-end e análise de dados.
 
 <p align="left">
 <a href="https://github.com/Eberrth44?tab=followers">
