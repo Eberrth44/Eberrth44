@@ -43,13 +43,6 @@ JavaScript, HTML, CSS e MySQL, sou um entusiasta de metodologias ágeis.
 ![Eberth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EberthRodrigues&show_icons=true&theme=tokyonight&hide_border=true)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EberthRodrigues&layout=compact&theme=tokyonight&hide_border=true)
-
-  <!-- GitHub Stats -->
-  ![Eberth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EberthRodrigues&show_icons=true&theme=tokyonight&hide_border=true)
-  <br />
-  
-  <!-- Top Languages - Incluindo PHP, HTML, CSS -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EberthRodrigues&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 </div>
 
 
