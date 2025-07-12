@@ -2,9 +2,10 @@
 
 <h1 align="center">Olá, eu sou o Eberth Rodrigues 👋</h1>
 
-<p align="center">
-  Desenvolvedor apaixonado por tecnologia e programação! Especialista em construir soluções web com foco em performance, escalabilidade e boas práticas.
-</p>
+<pre align="center">
+Desenvolvedor orientado a soluções práticas e ágeis,experiência em desenvolvimento web, desktop e automação de processos. Com experiência em tecnologias como PHP, Java, Python, 
+JavaScript, HTML, CSS e MySQL, sou um entusiasta de metodologias ágeis.
+</pre>
 
 
 ---
