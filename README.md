@@ -36,7 +36,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
+<div align="left">
 
 ![Eberth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EberthRodrigues&show_icons=true&theme=tokyonight&hide_border=true)
 <br />
