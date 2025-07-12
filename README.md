@@ -59,10 +59,9 @@
 
 ---
 
-## 🌟 Projetos em destaque
+## 🌟 Projeto em destaque
 
-- 🔧 **[Sistema de Controle de Estoque](https://github.com/EberthRodrigues/NomeDoProjeto)** – Aplicação PHP com MySQL para controle de produtos e vendas.
-- ⚙️ **[Gerador de Relatórios](https://github.com/EberthRodrigues/NomeDoProjeto)** – Projeto em Java para criação de relatórios PDF a partir de dados estruturados.
+- 🔧 **[Sistema de Controle de Estoque](https://github.com/Caioairesd/Projeto-tbit-manager-estoque.git)** – Aplicação Python com MySQL para controle de produtos e estoque.
 
 ---
 
