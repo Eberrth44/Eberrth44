@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o Eberth Rodrigues 👋</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, com foco em <strong>desenvolvimento web</strong> e <strong>back-end</strong>. Sempre aprendendo, evoluindo e compartilhando conhecimento!
+  Desenvolvedor apaixonado por tecnologia e programação! Especialista em construir soluções web com foco em performance, escalabilidade e boas práticas.
 </p>
 
 <p align="center">
@@ -19,24 +19,24 @@
 
 ## 🚀 Sobre mim
 
-- 💼 Desenvolvedor com experiência em JavaScript, Node.js e React
-- 🌱 Atualmente estudando TypeScript e arquitetura de software
-- 🔭 Sempre em busca de projetos desafiadores e oportunidades para crescer
-- 🧠 Apaixonado por tecnologia, código limpo e boas práticas de desenvolvimento
+- 💼 Desenvolvedor com experiência em aplicações web, back-end e front-end
+- 🔍 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+- 🛠️ Foco em **PHP, Java, Python, JavaScript, MySQL, HTML e CSS**
+- 🧠 Entusiasta de código limpo, automação e lógica de programação
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  
-![JavaScript](img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -69,8 +69,8 @@
 
 ## 🌟 Projetos em destaque
 
-- 🔧 **[Nome do Projeto 1](https://github.com/EberthRodrigues/NomeDoProjeto)** – Descrição breve e clara do projeto.
-- ⚙️ **[Nome do Projeto 2](https://github.com/EberthRodrigues/NomeDoProjeto)** – O que ele faz? Que tecnologias usa?
+- 🔧 **[Sistema de Controle de Estoque](https://github.com/EberthRodrigues/NomeDoProjeto)** – Aplicação PHP com MySQL para controle de produtos e vendas.
+- ⚙️ **[Gerador de Relatórios](https://github.com/EberthRodrigues/NomeDoProjeto)** – Projeto em Java para criação de relatórios PDF a partir de dados estruturados.
 
 ---
 
