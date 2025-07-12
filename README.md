@@ -6,14 +6,6 @@
   Desenvolvedor apaixonado por tecnologia e programação! Especialista em construir soluções web com foco em performance, escalabilidade e boas práticas.
 </p>
 
-<p align="center">
-  <a href="https://github.com/EberthRodrigues?tab=followers">
-    <img 
-      alt="Seguidores no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/EberthRodrigues?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
 
 ---
 
