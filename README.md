@@ -3,7 +3,8 @@
 <h1 align="center">Olá, eu sou o Eberth Rodrigues 👋</h1>
 
 <pre align="center">
-Desenvolvedor orientado a soluções práticas e ágeis,experiência em desenvolvimento web, desktop e automação de processos. Com experiência em tecnologias como PHP, Java, Python, 
+Desenvolvedor orientado a soluções práticas e ágeis,experiência em desenvolvimento web, 
+desktop e automação deprocessos. Com experiência em tecnologias como PHP, Java, Python, 
 JavaScript, HTML, CSS e MySQL, sou um entusiasta de metodologias ágeis.
 </pre>
 
